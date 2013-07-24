@@ -14,6 +14,8 @@ tool I use often.  And one I have not found elsewhere.
 PicViewer is written in Delphi 6 using only standard components and one open source graphics library, 
 GraphicEx (http://www.delphi-gems.com/Graphics.php).
 
+It was originally posted to SourceForge in 2005: http://sourceforge.net/projects/picviewer.
+
 Command Line Parameters
 =======================
 
